@@ -1,4 +1,4 @@
-## Introduction
+## Introduction (Mirror)
 
 A Zsh-Zinit extension (i.e. an
 [annex](http://zdharma.org/zinit/wiki/Annexes/)) that downloads files and
